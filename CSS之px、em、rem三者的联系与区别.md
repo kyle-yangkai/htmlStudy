@@ -5,7 +5,8 @@ em表示相对尺寸，其相对于当前对象内文本的font-size（如果当
 rem也表示相对尺寸，其参考对象为根元素<html>的font-size，因此只需要确定这一个font-size。
 表1表示在不同环境下em和rem换算成的px。
  
-表1：em、rem换算px表
+表1：em、rem换算px表  
+
 以下为实例展示。（只显示相关代码，html设定font-size=15px）
 相关代码如下：
 ```
